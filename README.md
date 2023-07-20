@@ -22,7 +22,7 @@ This is a Data Analytics project of Google Play Store Data
 ### The Power Bi Dashboard is uploaded as a PDF file.
 
 
-##Summary
+## Summary
 
 I followed 6 steps for doing this project
 
