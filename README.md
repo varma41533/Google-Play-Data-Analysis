@@ -33,6 +33,15 @@ I followed 6 steps for doing this project
 5. Share : Sharing insights with the team and stakeholders
 6. Act : What are the desicions to be taken for improving the Business.
 
+## Key Performance Indicators
+
+1. Total number of apps and number of installs in various years.
+2. Average rating of the apps.
+3. Count of apps for category and Genere.
+4. Count of reviews by Category.
+5. Number of app installs over the time.
+6. Average prices of the apps by category.
+
 
 
 
