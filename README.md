@@ -1,46 +1,41 @@
-# Google Play Data Analysis
-This is a Data Analytics project of Google Play Store Data
+Google Play Data Analysis
+This project focuses on analyzing Google Play Store data to uncover valuable insights using Power BI.
 
-### Data Set : https://www.kaggle.com/datasets/lava18/google-play-store-apps
+Dataset:
+Google Play Store Apps
 
-### TOOLS USED 
+Tools Used
+Power BI – Interactive data visualization software
 
-### POWER BI
+Why Power BI?
+Ease of Implementation: Simple to connect and configure
+Rich Visualizations: Wide variety of interactive charts and graphs
+Direct Database Connectivity: Seamless data integration
+Effective Data Presentation: Engaging and insightful dashboard creation
+The final Power BI dashboard is provided as a PDF.
 
-● Interactive data visualization software
+Project Summary: The 6-Step Workflow
+Ask: Define key questions – What insights can we extract from the data?
+Prepare: Retrieve the data from relevant sources.
+Process: Clean, model, and prepare the data for analysis.
+Analyze: Identify trends, patterns, and insights from the dataset.
+Share: Present findings through dashboards to the team and stakeholders.
+Act: Make data-driven recommendations to improve business outcomes.
+Key Performance Indicators (KPIs)
+Total Apps and Installs: Track the number of apps and installs across different years.
+Average Rating: Evaluate the average ratings of apps.
+App Categories & Genres: Analyze the distribution of apps by category and genre.
+Reviews by Category: Assess the volume of reviews across categories.
+Installs Over Time: Monitor trends in app installs over different time periods.
+Average App Prices by Category: Compare pricing trends across various categories.
+This analysis provides actionable insights to enhance decision-making and improve business performance.
 
-### REASON
-
-● Easy implementation
-
-● Variety of visualisations available
-
-● Direct connectivity of database to the software
-
-● Interesting showcase of data analysis
-
-### The Power Bi Dashboard is uploaded as a PDF file.
 
 
-## Summary
 
-I followed 6 steps for doing this project
 
-1. Ask : What are things we want from this data.
-2. Prepare: Getting the data from the data sources.
-3. Process: Preparing the data for Analysis, cleaning the data, Data modelling.
-4. Analyse: After looking at the data what are insights we are getting.
-5. Share : Sharing insights with the team and stakeholders
-6. Act : What are the desicions to be taken for improving the Business.
 
-## Key Performance Indicators
 
-1. Total number of apps and number of installs in various years.
-2. Average rating of the apps.
-3. Count of apps for category and Genere.
-4. Count of reviews by Category.
-5. Number of app installs over the time.
-6. Average prices of the apps by category.
 
 
 
