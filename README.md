@@ -75,10 +75,17 @@ Average Prices by Category: Price comparisons across different categories
 
 
 
+
+
 Power BI Dashboard
+
 The final dashboard is available as a PDF for easy access and review.
 
+
+
 Conclusion
+
+
 This analysis provides valuable insights into app performance, user behavior, and market trends, enabling businesses to make informed decisions and optimize their strategies.
 
 
