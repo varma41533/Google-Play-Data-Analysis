@@ -6,7 +6,7 @@ Overview
 This project analyzes the Google Play Store dataset to uncover key insights about app trends, performance, and user behavior. The analysis is presented through an interactive Power BI dashboard.
 
 Dataset-
-Google Play Store Apps
+https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 Tools Used-
 Power BI - Interactive data visualization software
